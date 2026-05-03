@@ -1,0 +1,221 @@
+
+{'='*70}
+FILE: usdc_2024-06.pdf
+======================================================================
+
+--- PAGE 1 ---
+INDEPENDENT ACCOUNTANTS’ REPORT
+Board of Directors and Management
+Circle Internet Financial, LLC
+We have examined management of Circle Internet Financial(cid:15) LLC’s (the “Company”) assertion
+that the Fair Value of Assets Held in USDC Reserve is equal to or greater than
+USDC (cid:76)n Circulation in accordance with the criteria defined in the accompanying USDC
+Reserve Report as of(cid:3)(cid:45)(cid:88)(cid:81)(cid:72)(cid:3)(cid:20)(cid:19), 202(cid:23), and(cid:3)(cid:45)(cid:88)(cid:81)(cid:72)(cid:3)(cid:21)(cid:27), 202(cid:23), at 11:59pm Pacific (cid:39)(cid:68)(cid:92)(cid:79)(cid:76)(cid:74)(cid:75)(cid:87) Time(cid:3)(cid:11)(cid:87)(cid:75)(cid:72)
+(“tRheep ort Dates”). The Company’s management is responsible for its assertion. Our responsibility
+is to express an opinion on management’s assertion based on our examination.
+Our examination was conducted in accordance with attestation standards established by the
+American Institute of Certified Public Accountants(cid:3)(cid:11)(cid:36)(cid:44)(cid:38)(cid:51)(cid:36)(cid:12). Those standards require that we plan and
+perform the examination to obtain reasonable assurance about whether management’s
+assertion is fairly stated, in all material respects. An examination involves performing
+procedures to obtain evidence about management’s assertion. The nature, timing, and extent of
+the procedures selected depend on our judgment, including an assessment of the risks of
+material misstatement of management’s assertion, whether due to fraud or error. We believe
+that the evidence we obtained is sufficient and appropriate to provide a reasonable basis for our
+opinion.
+We are required to be independent and to meet our other ethical responsibilities in accordance
+with relevant ethical requirements relating to the engagement.
+In our opinion, management’s assertion that the Fair Value of Assets Held in USDC Reserve is
+equal to or greater than USDC (cid:76)n Circulation as of the Report Dates in accordance with the
+criteria defined in the accompanying USDC Reserve Report is fairly stated, in all material
+respects.
+(cid:45)(cid:88)(cid:79)(cid:92)(cid:3)(cid:22)(cid:19)(cid:15)(cid:3)(cid:21)(cid:19)(cid:21)(cid:23)
+
+--- PAGE 2 ---
+(cid:15)(cid:25)(cid:19)(cid:28)(cid:27)(cid:22)(cid:21)(cid:24)(cid:1)(cid:16)(cid:24)(cid:29)(cid:20)(cid:23)(cid:25)(cid:26)(cid:20)(cid:1)(cid:18)(cid:15)(cid:11)(cid:1)(cid:16)(cid:8)(cid:8)(cid:10)(cid:7)(cid:3)(cid:5)(cid:15)(cid:2)(cid:17)(cid:8)(cid:5)(cid:10)(cid:2)(cid:6)(cid:14)(cid:8)(cid:17)(cid:2)(cid:12)(cid:13)(cid:9)(cid:12)(cid:2)(cid:16)(cid:14)(cid:4)(cid:8)(cid:8)(cid:14)(cid:9)(cid:13)(cid:4)(cid:3)(cid:15)(cid:5)
+USDC Reserve Report
+Management’s Assertion
+Circle Internet Financial, LLC (“Circle” or the “Company”) is responsible for the completeness, accuracy and validity of the
+USDC Reserve Report (“the Report”) as of June 10, 2024 and June 28, 2024 at 11:59pm Pacific Daylight Time (the “Report
+Dates”). Circle management asserts that the Fair Value of Assets Held in USDC Reserve is equal to or greater than USDC in
+Circulation at the Report Dates in accordance with the criteria defined in the Report below.
+USDC Reserve Report
+Report Dates June 10, 2024 June 28, 2024
+USDC in Circulation 32,006,867,453 32,222,674,248
+(as defined in the criteria below)
+Fair Value of Assets Held in USDC Reserve $ 32,058,317,792 $ 32,274,321,543
+(as defined in the criteria below)
+CRITERIA
+A. USDC In Circulation is defined as the total USDC supply on USDC Approved Blockchains at the Report Dates
+( 32,952,831,646 and 33,450,832,753, respectively) less (i) Tokens Allowed But Not Issued as reported on USDC
+Approved Blockchains ( 866,008,186 and 1,148,202,498, respectively) and (ii) Access Denied Tokens as reported on
+USDC Approved Blockchains (79,956,007 and 79,956,007, respectively).
+USDC Approved Blockchains are comprised of the Algorand, Arbitrum One, Avalanche C-Chain, Base, Celo, Ethereum,
+Flow, Hedera, NEAR, Noble, OP Mainnet, Polkadot Asset Hub, Polygon PoS, Solana, Stellar, TRON, and ZKsync Era
+blockchains and are used by the Company to issue and redeem USDC (with the exception of TRON for which only
+redemptions are supported).
+Tokens Allowed But Not Issued are defined as tokens that exist on the Algorand, Hedera, Polkadot Asset Hub, and
+Solana blockchains and are not currently issued to a USDC Holder. They are required due to the technical
+implementation of USDC on those blockchains.
+Access Denied Tokens are defined as the amount of USDC tokens that are restricted from being accessed by the
+holder to comply with a law, regulation, or legal order from a duly recognized U.S. authorized authority, U.S. court of
+competent jurisdiction, or other governmental authority with jurisdiction over the Company.
+B. Fair Value of Assets Held in USDC Reserve is defined as the total balance of U.S. dollar denominated assets at the
+Report Dates in the Circle Reserve Fund and in Segregated Accounts held by the Company with regulated financial
+institutions on behalf of USDC holders.
+The Circle Reserve Fund (the “Fund”) is a government money market fund under Rule 2a-7 of the Investment Company
+Act of 1940, as amended. The Company owns one hundred percent of th
+
+--- PAGE 3 ---
+(cid:15)(cid:25)(cid:19)(cid:28)(cid:27)(cid:22)(cid:21)(cid:24)(cid:1)(cid:16)(cid:24)(cid:29)(cid:20)(cid:23)(cid:25)(cid:26)(cid:20)(cid:1)(cid:18)(cid:15)(cid:11)(cid:1)(cid:16)(cid:8)(cid:8)(cid:10)(cid:7)(cid:3)(cid:5)(cid:15)(cid:2)(cid:17)(cid:8)(cid:5)(cid:10)(cid:2)(cid:6)(cid:14)(cid:8)(cid:17)(cid:2)(cid:12)(cid:13)(cid:9)(cid:12)(cid:2)(cid:16)(cid:14)(cid:4)(cid:8)(cid:8)(cid:14)(cid:9)(cid:13)(cid:4)(cid:3)(cid:15)(cid:5)
+USDC Reserve Report
+CIRCLE RESERVE FUND ASSETS AS OF JUNE 10, 2024
+U.S. TREASURY SECURITIES
+Cusip Maturity Date Fair Value ($) 1
+912797KF3 06/18/24 507,483,394
+912796ZW2 06/20/24 376,905,889
+912797KH9 07/02/24 1,635,670,565
+912796Y52 07/05/24 2,284,483,884
+912797KN6 07/09/24 875,403,914
+912797KP1 07/16/24 1,752,997,889
+912797JS7 07/18/24 1,194,003,794
+912797KQ9 07/23/24 1,571,894,243
+912797KR7 07/30/24 108,517,473
+912797KW6 08/06/24 297,545,334
+912797KB2 08/15/24 594,328,752
+TOTAL U.S. TREASURY SECURITIES 11,199,235,131
+U.S. Treasury Repurchase Agreements 2 17,127,000,000
+Cash held in Circle Reserve Fund 1,000,967,524
+Cash due to/(owed by) Circle Reserve Fund due to timing and settlement differences, net 3 (338,743,308)
+TOTAL CIRCLE RESERVE FUND ASSETS 28,988,459,347
+OTHER USDC RESERVE ASSETS AS OF JUNE 10, 2024
+3,090,844,986
+Cash held at regulated financial institutions
+Cash due to/(owed by) the Company due to timing and settlement differences, net 3 (20,986,541)
+TOTAL OTHER USDC RESERVE ASSETS 3,069,858,445
+TOTAL USDC RESERVE ASSETS AS OF JUNE 10, 2024 32,058,317,792
+Circle.com
+
+--- PAGE 4 ---
+(cid:15)(cid:25)(cid:19)(cid:28)(cid:27)(cid:22)(cid:21)(cid:24)(cid:1)(cid:16)(cid:24)(cid:29)(cid:20)(cid:23)(cid:25)(cid:26)(cid:20)(cid:1)(cid:18)(cid:15)(cid:11)(cid:1)(cid:16)(cid:8)(cid:8)(cid:10)(cid:7)(cid:3)(cid:5)(cid:15)(cid:2)(cid:17)(cid:8)(cid:5)(cid:10)(cid:2)(cid:6)(cid:14)(cid:8)(cid:17)(cid:2)(cid:12)(cid:13)(cid:9)(cid:12)(cid:2)(cid:16)(cid:14)(cid:4)(cid:8)(cid:8)(cid:14)(cid:9)(cid:13)(cid:4)(cid:3)(cid:15)(cid:5)
+USDC Reserve Report
+CIRCLE RESERVE FUND ASSETS AS OF JUNE 28, 2024
+U.S. TREASURY SECURITIES
+Cusip Maturity Date Fair Value ($) 1
+912797KH9 07/02/24 1,163,629,608
+912796Y52 07/05/24 2,383,102,850
+912797KN6 07/09/24 353,589,162
+912797KP1 07/16/24 2,071,055,308
+912797KQ9 07/23/24 1,511,734,247
+912797JU2 08/01/24 1,269,233,736
+912797GK7 08/08/24 1,132,597,612
+912797KX4 08/13/24 536,619,125
+912797KB2 08/15/24 198,690
+912797KY2 08/20/24 298,806,255
+TOTAL U.S. TREASURY SECURITIES 10,720,566,593
+U.S. Treasury Repurchase Agreements 2 17,084,000,000
+Cash held in Circle Reserve Fund 1,004,196,693
+Cash due to/(owed by) Circle Reserve Fund due to timing and settlement differences, net 3 (120,193,196)
+TOTAL CIRCLE RESERVE FUND ASSETS 28,688,570,090
+OTHER USDC RESERVE ASSETS AS OF JUNE 28, 2024
+3,601,833,723
+Cash held at regulated financial institutions
+Cash due to/(owed by) the Company due to timing and settlement differences, net 3 (16,082,270)
+TOTAL OTHER USDC RESERVE ASSETS 3,585,751,453
+TOTAL USDC RESERVE ASSETS AS OF JUNE 28, 2024 32,274,321,543
+Circle.com
+
+--- PAGE 5 ---
+(cid:15)(cid:25)(cid:19)(cid:28)(cid:27)(cid:22)(cid:21)(cid:24)(cid:1)(cid:16)(cid:24)(cid:29)(cid:20)(cid:23)(cid:25)(cid:26)(cid:20)(cid:1)(cid:18)(cid:15)(cid:11)(cid:1)(cid:16)(cid:8)(cid:8)(cid:10)(cid:7)(cid:3)(cid:5)(cid:15)(cid:2)(cid:17)(cid:8)(cid:5)(cid:10)(cid:2)(cid:6)(cid:14)(cid:8)(cid:17)(cid:2)(cid:12)(cid:13)(cid:9)(cid:12)(cid:2)(cid:16)(cid:14)(cid:4)(cid:8)(cid:8)(cid:14)(cid:9)(cid:13)(cid:4)(cid:3)(cid:15)(cid:5)
+USDC Reserve Report
+Notes
+1. Amounts are shown here at their fair value as of the Report Dates. The Circle Reserve Fund in which these
+securities are owned, reports U.S. Treasury Securities in accordance with Rule 2a-7 under the Investment
+Company Act of 1940, as amended.
+2. U.S Treasury Repurchase Agreements within the Circle Reserve Fund involve the overnight lending of cash to
+global financial institutions which is overcollateralized by U.S. Treasury securities.
+3. Fund and bank balances have been adjusted for timing and settlement differences, which include:
+deposits/withdrawals occurring after the bank statement cut-off time (but before the Report Dates), securities
+purchased/sold on the last day of the reporting period and settled after the Report Dates, interest receivable or
+payable, and unrealized gains/losses.
+Tamara Schulz
+Chief Accounting Officer
+Circle Internet Financial, LLC
+July 30, 2024
+Circle.com
+
+{'='*70}
+FILE: usdc_2022-01.pdf
+======================================================================
+
+--- PAGE 1 ---
+GRANT THORNTON LLP REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+757 Third Ave., 9th Floor
+New York, NY 10017
+D +1 212 599 0100
+F +1 212 370 4520
+Board of Directors and Management
+Circle Internet Financial, LLC
+We have examined management of Circle Internet Financial, LLC’s assertion that the
+following information (hereafter, the “Reserve Account Information”) in the
+accompanying Reserve Account Report as of January 31, 2022 at 11:59 PM Pacific
+Time (“PT”) (“Report Date”) is fairly stated, based on the criteria set forth in the
+Reserve Account Report.
+(cid:120) USD Coin (“USDC”) in Circulation1 = 50,031,478,777 USDC
+(cid:120) The total fair value of US dollar denominated assets held in segregated accounts
+are at least equal to the USDC in Circulation at the Report Date.
+Circle Internet Financial, LLC’s management is responsible for its assertion. Our
+responsibility is to express an opinion on the Reserve Account Information in the
+accompanying Reserve Account Report based on our examination.
+Our examination was conducted in accordance with attestation standards established
+by the American Institute of Certified Public Accountants. Those standards require
+that we plan and perform the examination to obtain reasonable assurance about
+whether the Reserve Account Information in the accompanying Reserve Account
+Report is fairly stated, based on the criteria set forth in the Reserve Account Report,
+in all material respects. An examination involves performing procedures to obtain
+evidence about the Reserve Account Information. The nature, timing, and extent of
+the procedures selected depend on our judgment, including an assessment of the
+risks of material misstatement of the Reserve Account Information, whether due to
+fraud or error. In making an assessment of the risks of material misstatement, we
+considered and obtained an understanding of internal control relevant to the
+preparation of, and the Reserve Account Information in, the accompanying Reserve
+Account Report in order to design procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the effectiveness
+of such internal control. Accordingly, no such opinion is expressed. We believe that
+the evidence we obtained is sufficient and appropriate to provide a reasonable basis
+for our opinion.
+The Reserve Account Information in the accompanying Reserve Account Report
+relate to Circle Internet Financial LLC’s USDC token, which is a cryptographic stored
+value token that allows financial market participants to transact in a crypto asset.
+Crypto assets are an evolving area of technology and marketplace activity. Individuals
+who acquire and utilize USDC tokens and other crypto assets are responsible for
+informing themselves of the general risks and uncertainties.
+1
+Total USDC in circulation is the total USDC supply on USDC approved blockchains less (i) tokens allowed but not issued and
+(ii) access denied tokens outstanding at the Report Date as reported on
+
+--- PAGE 2 ---
+In our opinion, the Reserve Account Information in the accompanying Reserve
+Account Report as of January 31, 2022 is fairly stated, based on the criteria set forth
+in the Reserve Account Report, in all material respects.
+The Notes to the Reserve Account Report are provided for additional information.
+Such information has not been subjected to the procedures applied in our
+examination, and accordingly, we do not express an opinion or provide any assurance
+on it.
+New York, New York
+February 25, 2022
+
+--- PAGE 3 ---
+(cid:16)(cid:27)(cid:21)(cid:29)(cid:20)(cid:24)(cid:23)(cid:26)(cid:1)(cid:17)(cid:26)(cid:30)(cid:22)(cid:25)(cid:27)(cid:28)(cid:22)(cid:1)(cid:19)(cid:16)(cid:12)(cid:1)(cid:8)(cid:5)(cid:6)(cid:7)(cid:10)(cid:4)(cid:11)(cid:8)(cid:2)(cid:3)(cid:6)(cid:9)(cid:9)(cid:2)(cid:7)(cid:18)(cid:6)(cid:14)(cid:2)(cid:13)(cid:7)(cid:13)(cid:10)(cid:2)(cid:9)(cid:16)(cid:15)(cid:7)(cid:5)(cid:17)(cid:5)(cid:8)(cid:8)(cid:5)(cid:10)(cid:13)
+(cid:53)(cid:72)(cid:86)(cid:72)(cid:85)(cid:89)(cid:72)(cid:3)(cid:36)(cid:70)(cid:70)(cid:82)(cid:88)(cid:81)(cid:87)(cid:3)(cid:53)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)
+(cid:38)(cid:76)(cid:85)(cid:70)(cid:79)(cid:72)(cid:3)(cid:44)(cid:81)(cid:87)(cid:72)(cid:85)(cid:81)(cid:72)(cid:87)(cid:3)(cid:41)(cid:76)(cid:81)(cid:68)(cid:81)(cid:70)(cid:76)(cid:68)(cid:79)(cid:15)(cid:3)(cid:47)(cid:47)(cid:38)(cid:3)(cid:11)(cid:87)(cid:75)(cid:72)(cid:3)(cid:179)(cid:38)(cid:82)(cid:80)(cid:83)(cid:68)(cid:81)(cid:92)(cid:180)(cid:12)(cid:3)(cid:68)(cid:86)(cid:86)(cid:72)(cid:85)(cid:87)(cid:86)(cid:15)(cid:3)(cid:68)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:45)(cid:68)(cid:81)(cid:88)(cid:68)(cid:85)(cid:92)(cid:3)(cid:22)(cid:20)(cid:15)(cid:3)(cid:21)(cid:19)(cid:21)(cid:21)(cid:3)(cid:68)(cid:87)(cid:3)(cid:20)(cid:20)(cid:29)(cid:24)(cid:28)(cid:3)(cid:51)(cid:48)
+(cid:51)(cid:68)(cid:70)(cid:76)(cid:73)(cid:76)(cid:70)(cid:3)(cid:55)(cid:76)(cid:80)(cid:72)(cid:3)(cid:11)(cid:179)(cid:53)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:39)(cid:68)(cid:87)(cid:72)(cid:180)(cid:12)(cid:29)
+(cid:55)(cid:82)(cid:87)(cid:68)(cid:79)(cid:3)(cid:56)(cid:54)(cid:39)(cid:3)(cid:38)(cid:82)(cid:76)(cid:81)(cid:3)(cid:11)(cid:179)(cid:56)(cid:54)(cid:39)(cid:38)(cid:180)(cid:12)(cid:3)(cid:76)(cid:81)(cid:3)(cid:70)(cid:76)(cid:85)(cid:70)(cid:88)(cid:79)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:29) (cid:24)(cid:19)(cid:15)(cid:19)(cid:22)(cid:20)(cid:15)(cid:23)(cid:26)(cid:27)(cid:15)(cid:26)(cid:26)(cid:26)(cid:3)(cid:3)(cid:56)(cid:54)(cid:39)(cid:38)
+(cid:55)(cid:82)(cid:87)(cid:68)(cid:79)(cid:3)(cid:73)(cid:68)(cid:76)(cid:85)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:56)(cid:54)(cid:3)(cid:39)(cid:82)(cid:79)(cid:79)(cid:68)(cid:85)(cid:3)(cid:71)(cid:72)(cid:81)(cid:82)(cid:80)(cid:76)(cid:81)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:68)(cid:86)(cid:86)(cid:72)(cid:87)(cid:86)(cid:3)(cid:75)(cid:72)(cid:79)(cid:71)(cid:3)(cid:82)(cid:81) (cid:7)(cid:3)(cid:24)(cid:19)(cid:15)(cid:19)(cid:22)(cid:20)(cid:15)(cid:23)(cid:26)(cid:27)(cid:15)(cid:26)(cid:26)(cid:26)
+(cid:69)(cid:72)(cid:75)(cid:68)(cid:79)(cid:73)(cid:3)(cid:82)(cid:73)(cid:3)(cid:56)(cid:54)(cid:39)(cid:38)(cid:3)(cid:75)(cid:82)(cid:79)(cid:71)(cid:72)(cid:85)(cid:86)(cid:3)(cid:76)(cid:86)(cid:3)(cid:68)(cid:87)(cid:3)(cid:79)(cid:72)(cid:68)(cid:86)(cid:87)(cid:3)(cid:72)(cid:84)(cid:88)(cid:68)(cid:79)(cid:3)(cid:87)(cid:82)(cid:29)
+(cid:38)(cid:53)(cid:44)(cid:55)(cid:40)(cid:53)(cid:44)(cid:36)(
+
+{'='*70}
+FILE: usdc_2019-01.pdf
+======================================================================
+
+--- PAGE 1 ---

@@ -1,0 +1,52 @@
+date,cusip,maturity_date,amount,asset_type
+2024-08-27,912810TC2,2041-11-15,70215780,Reverse Repo Collateral
+2024-08-27,,,935383,Cash
+2024-08-30,912810SL3,2050-02-15,70246380,Reverse Repo Collateral
+2024-08-30,,,935772,Cash
+2024-09-18,912810UB2,2044-05-15,70122960,Reverse Repo Collateral
+2024-09-18,,,935696,Cash
+2024-09-30,912810SX7,2051-05-15,28565448,Reverse Repo Collateral
+2024-09-30,912810TY4,2054-02-15,41670732,Reverse Repo Collateral
+2024-09-30,,,935725,Cash
+2024-10-11,912810SL3,2050-02-15,70041360,Reverse Repo Collateral
+2024-10-11,,,935567,Cash
+2024-10-31,912810SX7,2051-05-15,68912220,Reverse Repo Collateral
+2024-10-31,,,935952,Cash
+2024-11-25,912810UA4,2054-05-15,68845920,Reverse Repo Collateral
+2024-11-25,,,935334,Cash
+2024-11-29,91282CLJ8,2031-08-31,38754851,Reverse Repo Collateral
+2024-11-29,912810TM0,2042-11-15,30125749,Reverse Repo Collateral
+2024-11-29,,,935465,Cash
+2024-12-02,912810TL2,2052-11-15,68907120,Reverse Repo Collateral
+2024-12-02,,,935183,Cash
+2024-12-31,912810QE1,2040-02-15,48483109,Reverse Repo Collateral
+2024-12-31,912810SQ2,2040-08-15,20406671,Reverse Repo Collateral
+2024-12-31,,,936029,Cash
+2025-01-21,,,59701000,Reverse Repo Collateral
+2025-01-21,,,936473,Cash
+2025-01-31,,,59772000,Reverse Repo Collateral
+2025-01-31,,,936689,Cash
+2025-02-13,,,59640000,Reverse Repo Collateral
+2025-02-13,,,936432,Cash
+2025-02-28,,,59747000,Reverse Repo Collateral
+2025-02-28,,,936253,Cash
+2025-03-18,,,57028000,Reverse Repo Collateral
+2025-03-18,,,3583598,Cash
+2025-03-31,,,57116000,Reverse Repo Collateral
+2025-03-31,,,986725,Cash
+2025-04-10,,,57185000,Reverse Repo Collateral
+2025-04-10,,,986381,Cash
+2025-04-30,,,57055000,Reverse Repo Collateral
+2025-04-30,,,935387,Cash
+2025-05-08,,,56905000,Reverse Repo Collateral
+2025-05-08,,,935503,Cash
+2025-05-30,,,57053000,Reverse Repo Collateral
+2025-05-30,,,935535,Cash
+2025-06-09,,,57121000,Reverse Repo Collateral
+2025-06-09,,,935335,Cash
+2025-06-30,,,57060000,Reverse Repo Collateral
+2025-06-30,,,935798,Cash
+2025-07-08,,,57115000,Reverse Repo Collateral
+2025-07-08,,,935739,Cash
+2025-07-31,,,54288951,Reverse Repo Collateral
+2025-07-31,,,936611,Cash
