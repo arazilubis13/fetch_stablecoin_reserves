@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Debug
+debug_out.txt
+debug_output.txt
+
+# OS
+.DS_Store
+Thumbs.db
