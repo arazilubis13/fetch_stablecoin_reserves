@@ -1,4 +1,4 @@
-# Stablecoin Reserve Data Project
+# Stablecoin Reserve Data Collection
 
 ## Overview
 
